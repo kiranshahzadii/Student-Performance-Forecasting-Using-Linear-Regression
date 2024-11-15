@@ -13,7 +13,7 @@ This project implements a linear regression model to predict student performance
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/student-performance-forecasting.git
+git clone https://github.com/kiranshahzadii/student-performance-forecasting.git
 ```
 
 2. Navigate to the project directory:
@@ -31,7 +31,9 @@ pip install -r requirements.txt
 ## Usage
 1. Open the Jupyter notebook:
 
+```bash
 jupyter notebook Student_Performance_Forecasting.ipynb
+```
 
 2. Follow the instructions in the notebook to run the analysis and prediction model.
 
